@@ -1,0 +1,36 @@
+C:\Users\PHUONG_NAM\Source\Repos\cryptology\MHTT_UD\bin\Debug\MHTT_UD.exe.config
+C:\Users\PHUONG_NAM\Source\Repos\cryptology\MHTT_UD\obj\Debug\MHTT_UD.exe
+C:\Users\PHUONG_NAM\Source\Repos\cryptology\MHTT_UD\obj\Debug\MHTT_UD.pdb
+C:\Users\PHUONG_NAM\Source\Repos\cryptology\MHTT_UD\bin\Debug\MHTT_UD.exe
+C:\Users\PHUONG_NAM\Source\Repos\cryptology\MHTT_UD\bin\Debug\MHTT_UD.pdb
+C:\Users\PHUONG_NAM\Source\Repos\cryptology\MHTT_UD\obj\Debug\MHTT_UD.DecryptForm.resources
+C:\Users\PHUONG_NAM\Source\Repos\cryptology\MHTT_UD\obj\Debug\MHTT_UD.EditInformationForm.resources
+C:\Users\PHUONG_NAM\Source\Repos\cryptology\MHTT_UD\obj\Debug\MHTT_UD.EncryptForm.resources
+C:\Users\PHUONG_NAM\Source\Repos\cryptology\MHTT_UD\obj\Debug\MHTT_UD.LoginForm.resources
+C:\Users\PHUONG_NAM\Source\Repos\cryptology\MHTT_UD\obj\Debug\MHTT_UD.MainForm.resources
+C:\Users\PHUONG_NAM\Source\Repos\cryptology\MHTT_UD\obj\Debug\MHTT_UD.Properties.Resources.resources
+C:\Users\PHUONG_NAM\Source\Repos\cryptology\MHTT_UD\obj\Debug\MHTT_UD.RegisterForm.resources
+C:\Users\PHUONG_NAM\Source\Repos\cryptology\MHTT_UD\obj\Debug\MHTT_UD.SignForm.resources
+C:\Users\PHUONG_NAM\Source\Repos\cryptology\MHTT_UD\obj\Debug\MHTT_UD.VerifyPasswwordForm.resources
+C:\Users\PHUONG_NAM\Source\Repos\cryptology\MHTT_UD\obj\Debug\MHTT_UD.VerifySignForm.resources
+C:\Users\PHUONG_NAM\Source\Repos\cryptology\MHTT_UD\obj\Debug\1612406_MHTT_UD.csproj.GenerateResource.Cache
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\MHTT_UD\bin\Debug\MHTT_UD.exe.config
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\MHTT_UD\obj\Debug\MHTT_UD.exe
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\MHTT_UD\obj\Debug\MHTT_UD.pdb
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\bin\Debug\MHTT_UD.exe.config
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\obj\Debug\MHTT_UD.exe
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\obj\Debug\MHTT_UD.pdb
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\bin\Debug\MHTT_UD.exe
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\bin\Debug\MHTT_UD.pdb
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\obj\Debug\1612406_MHTT_UD.csprojResolveAssemblyReference.cache
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\obj\Debug\MHTT_UD.DecryptForm.resources
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\obj\Debug\MHTT_UD.EditInformationForm.resources
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\obj\Debug\MHTT_UD.EncryptForm.resources
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\obj\Debug\MHTT_UD.LoginForm.resources
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\obj\Debug\MHTT_UD.MainForm.resources
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\obj\Debug\MHTT_UD.Properties.Resources.resources
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\obj\Debug\MHTT_UD.RegisterForm.resources
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\obj\Debug\MHTT_UD.SignForm.resources
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\obj\Debug\MHTT_UD.VerifyPasswwordForm.resources
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\obj\Debug\MHTT_UD.VerifySignForm.resources
+E:\HỌC TẬP\NĂM BA\HỌC KỲ 2\MÃ HÓA THÔNG TIN VÀ ỨNG DỤNG\THỰC HÀNH\DoAnThucHanh\Source\obj\Debug\1612406_MHTT_UD.csproj.GenerateResource.Cache
